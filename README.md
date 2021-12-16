@@ -1,4 +1,4 @@
-# dotfiles
+# .dotfiles
 This is my set of dotfiles for my arch linux setup, as well as some documentation for my own personal use. I use dracula color scheme with dracula pink as my main accent color. It's a simple setup, but it does what I need it to. Replicate at your own risk.
 
 # Programs Used
