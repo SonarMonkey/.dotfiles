@@ -60,7 +60,7 @@ makepkg -si
 ```
 9. At this point I'm just gonna list a command to install the rest of the software I need/use. You may not need all of this stuff. If the configs are copied directly from this repo, you'll at least need: `kitty, discord, gnome-polkit, ksuperkey, picom, polybar, nerd-fonts-complete, ttf-ubuntu-font-family, maim, xclip`. Also worth noting I didn't use the AUR version of betterdiscord, I used the appimage from the main website. YMMV.
 ```
-yay -S piper discord spotify btop gnome-polkit virtualbox thunar osu-lazer-bin opentabletdriver minecraft-technic-launcher surfshark-vpn qbittorrent tlp tlp-rdw acpi_call neofetch file-roller volman gvfs ksuperkey lxappearance dracula-icons-git ant-dracula-kvantum-theme dracula-gtk-theme spicetify-cli xf86-video-intel mpv picom polybar gthumb nerd-fonts-complete ttf-ubuntu-font-family maim xclip betterdiscord-installer
+yay -S piper discord spotify btop gnome-polkit virtualbox thunar osu-lazer-bin opentabletdriver minecraft-technic-launcher surfshark-vpn qbittorrent tlp tlp-rdw acpi_call neofetch file-roller volman gvfs ksuperkey lxappearance dracula-icons-git ant-dracula-kvantum-theme dracula-gtk-theme spicetify-cli xf86-video-intel mpv picom polybar gthumb nerd-fonts-complete ttf-ubuntu-font-family maim xclip betterdiscord-installer cbonsai
 ```
 10. Install spacemacs. This one's easy, just run the following and then start emacs.
 ```
