@@ -107,3 +107,4 @@ In no particular order. Most of this isn't necessary if the configs are copied d
 * I still haven't setup a lockscreen or power-manager, but I'm not sure if I strictly need to.
 * Most of the stuff that people often use/make fancy menus for I do from the command line. Things like connecting to wifi, rebooting/shutting down, etc.
 * I'm sure there's stuff I've missed here, but I'll be keeping this relatively up to date as a personal reference.
+* My configs for things like grub and my sddm theme aren't included because they aren't in my home directory. If you want them, DM me on Reddit.
