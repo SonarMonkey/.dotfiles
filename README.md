@@ -92,7 +92,7 @@ In no particular order. Most of this isn't necessary if the configs are copied d
 * For discord, there's a betterdiscord dracula theme and a plugin to change the font. I also use a few other plugins that I might list here in the future.
 * For spotify, I use the dracula colorscheme from the Sleek theme, found here https://github.com/morpheusthewhite/spicetify-themes and installed using `spicetify-cli`.
 * Changing the global font in firefox requires creating a userChrome.css, which I've included in this repo. More instructions can be found here https://www.userchrome.org/how-create-userchrome-css.html and I'm only using this to change the font but it's much more powerful. The rest of the theming is handled by the official dracula firefox theme and the font settings found within firefox itself.
-* I use a modified version of the sugar-candy sddm theme, I've included my config for that.
+* I use a modified version of the sugar-candy sddm theme, but I haven't included my config for that. May upload in the future.
 
 ### Tweaks
 * It would be unreasonable to list all the tiny changes I've made to various configs, but I may try to do so in the future. There are a few notes though.
